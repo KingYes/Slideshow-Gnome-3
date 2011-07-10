@@ -31,7 +31,7 @@
 #
 
 # The base folder for random images.
-image_folder="/mnt/d/Wallpapers/"
+image_folder="/home/yakir/Pictures"
 
 # Set int number for wait by seconds.
 timeout="900"
